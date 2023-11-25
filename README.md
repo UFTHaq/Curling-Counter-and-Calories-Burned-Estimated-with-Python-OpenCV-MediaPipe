@@ -81,7 +81,7 @@
   </b>
 </p>
 <p align="center">
-  <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/5088d0d1-6947-46f2-9f93-b576e38e3345" height=400 />
+  <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/5088d0d1-6947-46f2-9f93-b576e38e3345" height=380 />
 </p>
 
 
