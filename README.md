@@ -84,10 +84,22 @@
   <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/5088d0d1-6947-46f2-9f93-b576e38e3345" height=380 />
 </p>
 
+## IV. Conclusion
+<p align="justify"> It can be concluded that the system can operate as expected, where the system records the sports activities we do, with recorded data 
+  including exercise repetitions and the number of calories burned. This allows us to calculate repetitions, calories, exercise duration, and record the 
+  date and time of the workout. The recording will facilitate tracking the exercise portions and evaluating the workouts conducted.
+</p>
+
+## V. Evaluation
+<p align="justify">
+  From the project "Curling Counter and Calories Burned Estimated," the necessary evaluation for further development is the app's ability to predict the 
+  weight used. Currently, the app struggles to distinguish between movements without weight and those with weight. The addition of AI that can estimate the 
+  load value may make this project more realistic. Additionally, creating a standalone app without dependencies on Python libraries such as OpenCV and 
+  MediaPipe would enable a wider range of users to utilize the app
+</p>
 
 
-
-
+<p align="center"><b>If you consider this page is useful, please leave a star</b></p>
 
 
 
