@@ -28,3 +28,14 @@
   weight loss, gain, body shaping, and hypertrophy.
 </p>
 
+<p align="justify"> However, a common challenge in weight training is the difficulty in calculating the number of burned calories. 
+  Currently, this calculation is still done manually, making progress tracking complex. Additionally, it's challenging to determine the 
+  number of calories burned in a single weightlifting movement. By knowing how many calories are burned in each movement, we can predict 
+  the number of movements needed to achieve specific goals and the time required.
+</p>
+
+<p align="justify"> Therefore, we face difficulties in recording information about our sports activities, such as the number of exercise 
+  repetitions and the calories burned. To address this, we want to create a program that can calculate repetitions, calories, exercise 
+  duration, and record the date and time of the workout. This recording will facilitate tracking the intensity of the exercises and 
+  provide valuable information to evaluate the effectiveness of your exercises.
+</p>
