@@ -6,7 +6,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated?color=red&style=for-the-badge)
 
 # Curling-Counter-and-Calories-Burned-Estimated
-<p>App for exercise curling biceps that can help you to estimate the calories burned and track your exercise history.
+<p align="justify">App for exercise curling biceps that can help you to estimate the calories burned and track your exercise history.
   Using Python, OpenCV, MediaPipe, Tkinter, and Google Sheets API.
 </p>
 
