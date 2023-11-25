@@ -14,4 +14,17 @@
   <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/cd40c0e9-50fa-4c36-bb84-2edf7950e8b5" height=400 />
 </p>
 
+<p align="center"><b>If you consider this page is useful, please leave a star</b></p>
+
 ## Introduction
+<p align="justify"> Sports are structured activities aimed at enhancing physical performance and appearance, ranging from maintaining work 
+  capacity to emergency readiness. Goals include strengthening muscles, cardiovascular health, blood circulation, respiratory efficiency, 
+  and physical recovery after injuries. Weight training is a popular form of exercise among fitness enthusiasts.
+</p>
+
+<p align="justify"> Weight training is a systematic activity using resistance to boost muscle strength, appealing to those with limited 
+  energy or suboptimal physical conditions. It serves various purposes, including improving physical condition and preventing injuries. 
+  Clear goals are crucial in weight lifting exercises, evident in fitness centers offering diverse programs, from physical fitness to 
+  weight loss, gain, body shaping, and hypertrophy.
+</p>
+
