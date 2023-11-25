@@ -16,7 +16,7 @@
 
 <p align="center"><b>If you consider this page is useful, please leave a star</b></p>
 
-## Introduction
+## I. Introduction
 <p align="justify"> Sports are structured activities aimed at enhancing physical performance and appearance, ranging from maintaining work 
   capacity to emergency readiness. Goals include strengthening muscles, cardiovascular health, blood circulation, respiratory efficiency, 
   and physical recovery after injuries. Weight training is a popular form of exercise among fitness enthusiasts.
@@ -39,3 +39,58 @@
   duration, and record the date and time of the workout. This recording will facilitate tracking the intensity of the exercises and 
   provide valuable information to evaluate the effectiveness of your exercises.
 </p>
+
+## II. Method
+<p align="center">
+  <b>Flowchart</b>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UFTHaq/Personal-WEB-Image/main/Images/Flowchart%20-%20Curling%20Counter%20Small%20Fix-min.png" width="200" />
+</p>
+<p>
+  <b>Tools used : </b>Python, OpenCV, MediaPipe, Tkinter, Nutritionix API, and Google Sheets API.
+</p>
+
+## III. Result
+<p><b>Home Page</b></p>
+<p align="center">
+  <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/a7ac7196-4def-472f-8f7c-29a8abedd5cb" height=400 />
+</p>
+
+<p><b>Filling in personal data and choosing which hand to train will initiate the app.</b></p>
+<p align="center">
+  <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/a772b554-6163-4ff6-b1ad-4c1525a4286d" height=400 />
+</p>
+
+<p><b>The next display when the program is running, all starting from <code>0</code>.</b></p>
+<p align="center">
+  <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/7bfeef90-ab23-4525-a5ce-77f43fd9e383" height=400 />
+</p>
+
+<p align="justify">
+  <b>The program runs by calculating <code>repetitions</code>, hand movement <code>positions/stages</code>, a <code>timer</code> for exercise duration, 
+    the trained <code>hand</code>, and an estimate of burned <code>calories</code>.
+  </b>
+</p>
+<p align="center">
+  <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/0e2ba4f2-5215-4ffd-b8a1-f5deb784caf1" height=400 />
+</p>
+
+<p align="justify">
+  <b>The data can be reset, starting everything from <code>0</code> again, and the data can be saved to a Google Sheets database to view exercise tracking results and facilitate evaluation of the workouts. 
+  </b>
+</p>
+<p align="center">
+  <img src="https://github.com/UFTHaq/Curling-Counter-and-Calories-Burned-Estimated/assets/104829519/5088d0d1-6947-46f2-9f93-b576e38e3345" height=400 />
+</p>
+
+
+
+
+
+
+
+
+
+
+
